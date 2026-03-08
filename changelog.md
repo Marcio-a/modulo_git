@@ -1,10 +1,3 @@
-There is a newer version available: Português do Brasil 1.1.0
-Languages (28): 
-1.1.0 Português do Brasil
-
-Mantenha um Changelog
-Não deixe seus amigos despejarem logs de commits no Changelog
-Version 1.0.0
 # Changelog
 
 All notable changes to this project will be documented in this file.
